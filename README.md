@@ -1,4 +1,4 @@
-# Olá, me chamo Odem ! 
+# Olá, me chamo Odem Ferreira! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 Meu dia-a-dia:
@@ -33,4 +33,4 @@ Meu dia-a-dia:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=OdemFerreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/odemferreira/odemferreira/blob/output/github-contribution-grid-snake.svg)
+
