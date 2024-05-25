@@ -4,8 +4,7 @@
 Meu dia-a-dia:
 
 - 🚗 Atualmente estou trabalhando como motorista de app
-- 🎒 Estudo de forma online front-end no One+ Alura
-- 🎓 Estudo presencialmente desenvolvimento de software na FPF tech
+- 🎒 Sou bolsista no Programa One+ Alura, em desenvolvimento back end usando Java
 <h2>Tecnologias que estou aprendendo:</h2>
 <div display:flex>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
